@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Api-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Api_common_jar/Api-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
